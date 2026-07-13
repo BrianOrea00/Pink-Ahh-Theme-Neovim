@@ -1,0 +1,18 @@
+# Lazy.nvim cache
+.lazy/
+
+# Mason packages
+mason/
+mason-registry/
+
+# Temp files
+*.swp
+*.swo
+*.un~
+.DS_Store
+
+# Personal overrides
+lua/config/local.lua
+
+# LSP cache
+.luarc.json
